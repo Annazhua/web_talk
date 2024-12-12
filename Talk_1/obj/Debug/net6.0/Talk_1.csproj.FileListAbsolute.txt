@@ -1,0 +1,129 @@
+D:\4 курс\ТРПО\Talk_1\Talk_1\bin\Debug\net6.0\appsettings.Development.json
+D:\4 курс\ТРПО\Talk_1\Talk_1\bin\Debug\net6.0\appsettings.json
+D:\4 курс\ТРПО\Talk_1\Talk_1\bin\Debug\net6.0\Talk_1.staticwebassets.runtime.json
+D:\4 курс\ТРПО\Talk_1\Talk_1\bin\Debug\net6.0\Talk_1.exe
+D:\4 курс\ТРПО\Talk_1\Talk_1\bin\Debug\net6.0\Talk_1.deps.json
+D:\4 курс\ТРПО\Talk_1\Talk_1\bin\Debug\net6.0\Talk_1.runtimeconfig.json
+D:\4 курс\ТРПО\Talk_1\Talk_1\bin\Debug\net6.0\Talk_1.dll
+D:\4 курс\ТРПО\Talk_1\Talk_1\bin\Debug\net6.0\Talk_1.pdb
+D:\4 курс\ТРПО\Talk_1\Talk_1\obj\Debug\net6.0\Talk_1.csproj.AssemblyReference.cache
+D:\4 курс\ТРПО\Talk_1\Talk_1\obj\Debug\net6.0\Talk_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\4 курс\ТРПО\Talk_1\Talk_1\obj\Debug\net6.0\Talk_1.AssemblyInfoInputs.cache
+D:\4 курс\ТРПО\Talk_1\Talk_1\obj\Debug\net6.0\Talk_1.AssemblyInfo.cs
+D:\4 курс\ТРПО\Talk_1\Talk_1\obj\Debug\net6.0\Talk_1.csproj.CoreCompileInputs.cache
+D:\4 курс\ТРПО\Talk_1\Talk_1\obj\Debug\net6.0\Talk_1.MvcApplicationPartsAssemblyInfo.cache
+D:\4 курс\ТРПО\Talk_1\Talk_1\obj\Debug\net6.0\Talk_1.RazorAssemblyInfo.cache
+D:\4 курс\ТРПО\Talk_1\Talk_1\obj\Debug\net6.0\Talk_1.RazorAssemblyInfo.cs
+D:\4 курс\ТРПО\Talk_1\Talk_1\obj\Debug\net6.0\staticwebassets\msbuild.Talk_1.Microsoft.AspNetCore.StaticWebAssets.props
+D:\4 курс\ТРПО\Talk_1\Talk_1\obj\Debug\net6.0\staticwebassets\msbuild.build.Talk_1.props
+D:\4 курс\ТРПО\Talk_1\Talk_1\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Talk_1.props
+D:\4 курс\ТРПО\Talk_1\Talk_1\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Talk_1.props
+D:\4 курс\ТРПО\Talk_1\Talk_1\obj\Debug\net6.0\staticwebassets.pack.json
+D:\4 курс\ТРПО\Talk_1\Talk_1\obj\Debug\net6.0\staticwebassets.build.json
+D:\4 курс\ТРПО\Talk_1\Talk_1\obj\Debug\net6.0\staticwebassets.development.json
+D:\4 курс\ТРПО\Talk_1\Talk_1\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+D:\4 курс\ТРПО\Talk_1\Talk_1\obj\Debug\net6.0\scopedcss\bundle\Talk_1.styles.css
+D:\4 курс\ТРПО\Talk_1\Talk_1\obj\Debug\net6.0\scopedcss\projectbundle\Talk_1.bundle.scp.css
+D:\4 курс\ТРПО\Talk_1\Talk_1\obj\Debug\net6.0\Talk_1.dll
+D:\4 курс\ТРПО\Talk_1\Talk_1\obj\Debug\net6.0\refint\Talk_1.dll
+D:\4 курс\ТРПО\Talk_1\Talk_1\obj\Debug\net6.0\Talk_1.pdb
+D:\4 курс\ТРПО\Talk_1\Talk_1\obj\Debug\net6.0\Talk_1.genruntimeconfig.cache
+D:\4 курс\ТРПО\Talk_1\Talk_1\obj\Debug\net6.0\ref\Talk_1.dll
+D:\4 курс\ТРПО\Talk_1\Talk_1\bin\Debug\net6.0\Humanizer.dll
+D:\4 курс\ТРПО\Talk_1\Talk_1\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\4 курс\ТРПО\Talk_1\Talk_1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\4 курс\ТРПО\Talk_1\Talk_1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\4 курс\ТРПО\Talk_1\Talk_1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\4 курс\ТРПО\Talk_1\Talk_1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\4 курс\ТРПО\Talk_1\Talk_1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\4 курс\ТРПО\Talk_1\Talk_1\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\4 курс\ТРПО\Talk_1\Talk_1\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\4 курс\ТРПО\Talk_1\Talk_1\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\4 курс\ТРПО\Talk_1\Talk_1\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\4 курс\ТРПО\Talk_1\Talk_1\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\4 курс\ТРПО\Talk_1\Talk_1\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\4 курс\ТРПО\Talk_1\Talk_1\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\4 курс\ТРПО\Talk_1\Talk_1\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\4 курс\ТРПО\Talk_1\Talk_1\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\4 курс\ТРПО\Talk_1\Talk_1\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\4 курс\ТРПО\Talk_1\Talk_1\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\4 курс\ТРПО\Talk_1\Talk_1\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\4 курс\ТРПО\Talk_1\Talk_1\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\4 курс\ТРПО\Talk_1\Talk_1\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\4 курс\ТРПО\Talk_1\Talk_1\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\4 курс\ТРПО\Talk_1\Talk_1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\4 курс\ТРПО\Talk_1\Talk_1\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\4 курс\ТРПО\Talk_1\Talk_1\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\4 курс\ТРПО\Talk_1\Talk_1\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\4 курс\ТРПО\Talk_1\Talk_1\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\4 курс\ТРПО\Talk_1\Talk_1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\4 курс\ТРПО\Talk_1\Talk_1\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\4 курс\ТРПО\Talk_1\Talk_1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\4 курс\ТРПО\Talk_1\Talk_1\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\4 курс\ТРПО\Talk_1\Talk_1\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\4 курс\ТРПО\Talk_1\Talk_1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\4 курс\ТРПО\Talk_1\Talk_1\obj\Debug\net6.0\Talk_1.csproj.CopyComplete
+G:\внедрение\Talk_1\Talk_1\Talk_1\bin\Debug\net6.0\appsettings.json
+G:\внедрение\Talk_1\Talk_1\Talk_1\bin\Debug\net6.0\Talk_1.staticwebassets.runtime.json
+G:\внедрение\Talk_1\Talk_1\Talk_1\bin\Debug\net6.0\Talk_1.exe
+G:\внедрение\Talk_1\Talk_1\Talk_1\bin\Debug\net6.0\Talk_1.deps.json
+G:\внедрение\Talk_1\Talk_1\Talk_1\bin\Debug\net6.0\Talk_1.runtimeconfig.json
+G:\внедрение\Talk_1\Talk_1\Talk_1\bin\Debug\net6.0\Talk_1.dll
+G:\внедрение\Talk_1\Talk_1\Talk_1\bin\Debug\net6.0\Talk_1.pdb
+G:\внедрение\Talk_1\Talk_1\Talk_1\bin\Debug\net6.0\Humanizer.dll
+G:\внедрение\Talk_1\Talk_1\Talk_1\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+G:\внедрение\Talk_1\Talk_1\Talk_1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+G:\внедрение\Talk_1\Talk_1\Talk_1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\внедрение\Talk_1\Talk_1\Talk_1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+G:\внедрение\Talk_1\Talk_1\Talk_1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+G:\внедрение\Talk_1\Talk_1\Talk_1\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\внедрение\Talk_1\Talk_1\Talk_1\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+G:\внедрение\Talk_1\Talk_1\Talk_1\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\внедрение\Talk_1\Talk_1\Talk_1\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+G:\внедрение\Talk_1\Talk_1\Talk_1\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+G:\внедрение\Talk_1\Talk_1\Talk_1\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\внедрение\Talk_1\Talk_1\Talk_1\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+G:\внедрение\Talk_1\Talk_1\Talk_1\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+G:\внедрение\Talk_1\Talk_1\Talk_1\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+G:\внедрение\Talk_1\Talk_1\Talk_1\bin\Debug\net6.0\System.Drawing.Common.dll
+G:\внедрение\Talk_1\Talk_1\Talk_1\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+G:\внедрение\Talk_1\Talk_1\Talk_1\bin\Debug\net6.0\System.Runtime.Caching.dll
+G:\внедрение\Talk_1\Talk_1\Talk_1\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+G:\внедрение\Talk_1\Talk_1\Talk_1\bin\Debug\net6.0\System.Security.Permissions.dll
+G:\внедрение\Talk_1\Talk_1\Talk_1\bin\Debug\net6.0\System.Windows.Extensions.dll
+G:\внедрение\Talk_1\Talk_1\Talk_1\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\внедрение\Talk_1\Talk_1\Talk_1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\внедрение\Talk_1\Talk_1\Talk_1\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+G:\внедрение\Talk_1\Talk_1\Talk_1\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\внедрение\Talk_1\Talk_1\Talk_1\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\внедрение\Talk_1\Talk_1\Talk_1\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+G:\внедрение\Talk_1\Talk_1\Talk_1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+G:\внедрение\Talk_1\Talk_1\Talk_1\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+G:\внедрение\Talk_1\Talk_1\Talk_1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+G:\внедрение\Talk_1\Talk_1\Talk_1\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+G:\внедрение\Talk_1\Talk_1\Talk_1\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+G:\внедрение\Talk_1\Talk_1\Talk_1\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+G:\внедрение\Talk_1\Talk_1\Talk_1\obj\Debug\net6.0\Talk_1.csproj.AssemblyReference.cache
+G:\внедрение\Talk_1\Talk_1\Talk_1\obj\Debug\net6.0\Talk_1.GeneratedMSBuildEditorConfig.editorconfig
+G:\внедрение\Talk_1\Talk_1\Talk_1\obj\Debug\net6.0\Talk_1.AssemblyInfoInputs.cache
+G:\внедрение\Talk_1\Talk_1\Talk_1\obj\Debug\net6.0\Talk_1.AssemblyInfo.cs
+G:\внедрение\Talk_1\Talk_1\Talk_1\obj\Debug\net6.0\Talk_1.csproj.CoreCompileInputs.cache
+G:\внедрение\Talk_1\Talk_1\Talk_1\obj\Debug\net6.0\Talk_1.MvcApplicationPartsAssemblyInfo.cache
+G:\внедрение\Talk_1\Talk_1\Talk_1\obj\Debug\net6.0\Talk_1.RazorAssemblyInfo.cache
+G:\внедрение\Talk_1\Talk_1\Talk_1\obj\Debug\net6.0\Talk_1.RazorAssemblyInfo.cs
+G:\внедрение\Talk_1\Talk_1\Talk_1\obj\Debug\net6.0\staticwebassets\msbuild.Talk_1.Microsoft.AspNetCore.StaticWebAssets.props
+G:\внедрение\Talk_1\Talk_1\Talk_1\obj\Debug\net6.0\staticwebassets\msbuild.build.Talk_1.props
+G:\внедрение\Talk_1\Talk_1\Talk_1\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Talk_1.props
+G:\внедрение\Talk_1\Talk_1\Talk_1\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Talk_1.props
+G:\внедрение\Talk_1\Talk_1\Talk_1\obj\Debug\net6.0\staticwebassets.pack.json
+G:\внедрение\Talk_1\Talk_1\Talk_1\obj\Debug\net6.0\staticwebassets.build.json
+G:\внедрение\Talk_1\Talk_1\Talk_1\obj\Debug\net6.0\staticwebassets.development.json
+G:\внедрение\Talk_1\Talk_1\Talk_1\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+G:\внедрение\Talk_1\Talk_1\Talk_1\obj\Debug\net6.0\scopedcss\bundle\Talk_1.styles.css
+G:\внедрение\Talk_1\Talk_1\Talk_1\obj\Debug\net6.0\scopedcss\projectbundle\Talk_1.bundle.scp.css
+G:\внедрение\Talk_1\Talk_1\Talk_1\obj\Debug\net6.0\Talk_1.csproj.CopyComplete
+G:\внедрение\Talk_1\Talk_1\Talk_1\obj\Debug\net6.0\Talk_1.dll
+G:\внедрение\Talk_1\Talk_1\Talk_1\obj\Debug\net6.0\refint\Talk_1.dll
+G:\внедрение\Talk_1\Talk_1\Talk_1\obj\Debug\net6.0\Talk_1.pdb
+G:\внедрение\Talk_1\Talk_1\Talk_1\obj\Debug\net6.0\Talk_1.genruntimeconfig.cache
+G:\внедрение\Talk_1\Talk_1\Talk_1\obj\Debug\net6.0\ref\Talk_1.dll
